@@ -3,4 +3,4 @@
 # Дмитрий Канцеров
 Мой первый опубликованный сайт
 
-[Урок 12](https://dimitrikantserov.github.io/lesson_12 "Моя готовая домашка")
+[Урок 12](https://dimitrikantserov.github.io/lesson_12 "Моя готовая домашка") - Работа с репозиторием на Github
